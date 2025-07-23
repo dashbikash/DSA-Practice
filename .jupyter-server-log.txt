@@ -1,0 +1,104 @@
+Launching jupyter-lab
+[W 2025-07-23 16:19:27.540 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2025-07-23 16:19:27.586 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-07-23 16:19:27.586 ServerApp] jupyter_offlinenotebook | extension was successfully linked.
+[I 2025-07-23 16:19:27.586 ServerApp] jupyter_resource_usage | extension was successfully linked.
+[I 2025-07-23 16:19:27.590 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2025-07-23 16:19:27.592 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.592 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.592 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.592 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.592 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2025-07-23 16:19:27.594 ServerApp] jupyterlab | extension was successfully linked.
+[W 2025-07-23 16:19:27.639 JupyterNotebookApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2025-07-23 16:19:27.639 JupyterNotebookApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2025-07-23 16:19:27.639 JupyterNotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.639 JupyterNotebookApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-07-23 16:19:27.639 JupyterNotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2025-07-23 16:19:27.644 ServerApp] notebook | extension was successfully linked.
+[I 2025-07-23 16:19:27.646 ServerApp] Writing Jupyter server cookie secret to /home/jovyan/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2025-07-23 16:19:27.881 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-07-23 16:19:27.895 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-07-23 16:19:27.896 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-07-23 16:19:27.896 ServerApp] jupyter_offlinenotebook | extension was successfully loaded.
+[I 2025-07-23 16:19:27.897 ServerApp] jupyter_resource_usage | extension was successfully loaded.
+[I 2025-07-23 16:19:27.898 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-07-23 16:19:27.899 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.11/site-packages/jupyterlab
+[I 2025-07-23 16:19:27.899 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 2025-07-23 16:19:27.899 LabApp] Extension Manager is 'pypi'.
+[I 2025-07-23 16:19:27.939 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-07-23 16:19:27.942 ServerApp] notebook | extension was successfully loaded.
+[I 2025-07-23 16:19:27.942 ServerApp] Will shut down after 600 seconds with no kernels.
+[I 2025-07-23 16:19:27.943 ServerApp] Serving notebooks from local directory: /home/jovyan
+[I 2025-07-23 16:19:27.943 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-07-23 16:19:27.943 ServerApp] http://jupyter-dashbikash-dsa-practice-idpeue7l:8888/user/dashbikash-dsa-practice-idpeue7l/lab?token=...
+[I 2025-07-23 16:19:27.943 ServerApp]     http://127.0.0.1:8888/user/dashbikash-dsa-practice-idpeue7l/lab?token=...
+[I 2025-07-23 16:19:27.943 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2025-07-23 16:19:27.945 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2025-07-23 16:19:28.191 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-07-23 16:20:35.958 ServerApp] 302 GET /user/dashbikash-dsa-practice-idpeue7l/?token=[secret] (@163.116.196.91) 0.48ms
+[I 2025-07-23 16:20:44.185 LabApp] Build is up to date
+[I 2025-07-23 16:21:14.626 ServerApp] Creating new file in 
+[I 2025-07-23 16:23:08.817 ServerApp] Saving file at /untitled.py
+[I 2025-07-23 16:23:24.728 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:24:57.173 ServerApp] New terminal with automatic name: 1
+[I 2025-07-23 16:31:27.982 ServerApp] Saving file at /index.py
+[W 2025-07-23 16:33:14.131 ServerApp] 404 GET /user/dashbikash-dsa-practice-idpeue7l/notebook-intelligence/capabilities?1753288389117 (dba69352da2b4c7caf857a77d6365809@163.116.196.91) 34.39ms referer=https://hub.2i2c.mybinder.org/user/dashbikash-dsa-practice-idpeue7l/lab/tree/index.py
+[W 2025-07-23 16:33:14.734 ServerApp] 404 GET /user/dashbikash-dsa-practice-idpeue7l/api/contents/untitled.py?content=0&hash=0&1753288389730 (dba69352da2b4c7caf857a77d6365809@163.116.196.91) 4.55ms referer=https://hub.2i2c.mybinder.org/user/dashbikash-dsa-practice-idpeue7l/lab/tree/index.py
+[W 2025-07-23 16:33:14.734 ServerApp] 404 GET /user/dashbikash-dsa-practice-idpeue7l/api/contents/untitled.py?content=0&hash=0&1753288389730 (163.116.196.91): No such file or directory: untitled.py
+[I 2025-07-23 16:33:14.765 LabApp] Build is up to date
+[I 2025-07-23 16:33:52.580 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:35:53.258 ServerApp] Saving file at /index.py
+[W 2025-07-23 16:38:17.808 TerminalsExtensionApp] WebSocket ping timeout after 90001 ms.
+[I 2025-07-23 16:46:48.269 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:47:12.464 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:53:02.782 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:54:47.422 ServerApp] Saving file at /index.py
+[I 2025-07-23 16:56:47.967 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:00:48.515 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:02:49.122 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:03:51.292 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:04:26.620 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:06:15.861 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:08:16.518 ServerApp] Saving file at /index.py
+[W 2025-07-23 17:11:53.036 ServerApp] 404 GET /user/dashbikash-dsa-practice-idpeue7l/notebook-intelligence/capabilities?1753290708083 (dba69352da2b4c7caf857a77d6365809@163.116.196.90) 1.45ms referer=https://hub.2i2c.mybinder.org/user/dashbikash-dsa-practice-idpeue7l/lab/tree/index.py
+[I 2025-07-23 17:11:53.648 LabApp] Build is up to date
+[W 2025-07-23 17:12:03.441 TerminalsExtensionApp] WebSocket ping timeout after 90003 ms.
+[W 2025-07-23 17:20:26.085 TerminalsExtensionApp] WebSocket ping timeout after 90001 ms.
+[I 2025-07-23 17:22:08.559 ServerApp] Saving file at /index.py
+[W 2025-07-23 17:25:47.154 TerminalsExtensionApp] WebSocket ping timeout after 90000 ms.
+[I 2025-07-23 17:29:23.377 ServerApp] Saving file at /index.py
+[W 2025-07-23 17:31:46.025 TerminalsExtensionApp] WebSocket ping timeout after 90001 ms.
+[W 2025-07-23 17:35:06.636 ServerApp] 404 GET /user/dashbikash-dsa-practice-idpeue7l/notebook-intelligence/capabilities?1753292101679 (dba69352da2b4c7caf857a77d6365809@163.116.196.90) 1.97ms referer=https://hub.2i2c.mybinder.org/user/dashbikash-dsa-practice-idpeue7l/lab/tree/index.py
+[I 2025-07-23 17:35:07.365 LabApp] Build is up to date
+[I 2025-07-23 17:37:08.002 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:39:15.637 ServerApp] Saving file at /index.py
+[W 2025-07-23 17:40:11.448 TerminalsExtensionApp] WebSocket ping timeout after 90001 ms.
+[I 2025-07-23 17:40:19.948 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:40:45.602 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:40:54.689 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:41:18.237 ServerApp] Saving file at /index.py
+[W 2025-07-23 17:45:09.183 TerminalsExtensionApp] WebSocket ping timeout after 90001 ms.
+[I 2025-07-23 17:51:13.558 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:51:35.897 ServerApp] Saving file at /index.py
+[I 2025-07-23 17:52:52.213 ServerApp] Saving file at /sort-bubble.py
+[I 2025-07-23 17:54:37.777 ServerApp] Saving file at /sort-bubble.py
+[I 2025-07-23 17:55:08.663 ServerApp] Saving file at /sort-bubble.py
+[W 2025-07-23 18:00:27.064 TerminalsExtensionApp] WebSocket ping timeout after 90000 ms.
+[I 2025-07-23 18:04:24.034 ServerApp] Creating new file in 
+[I 2025-07-23 18:05:14.853 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:07:15.543 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:09:16.266 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:11:16.952 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:13:17.620 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:15:18.851 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:17:19.532 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:19:20.183 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:23:20.829 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:23:44.321 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:24:01.989 ServerApp] Saving file at /selection-sort.py
+[W 2025-07-23 18:28:01.771 TerminalsExtensionApp] WebSocket ping timeout after 90000 ms.
+[I 2025-07-23 18:37:54.378 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:39:03.460 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:39:40.474 ServerApp] Saving file at /selection-sort.py
+[I 2025-07-23 18:39:45.426 ServerApp] Creating new directory in 
